@@ -1,0 +1,5 @@
+package br.com.jopaulo.userapi.services.exceptions;
+
+public class ObjectNotFoundException {
+
+}
