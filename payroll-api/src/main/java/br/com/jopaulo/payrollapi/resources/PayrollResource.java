@@ -8,8 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import br.com.jopaulo.payrollapi.domain.Payroll;
-import br.com.jopaulo.payrollapi.domain.User;
-import br.com.jopaulo.payrollapi.feingClients.UserFeign;
+import br.com.jopaulo.payrollapi.services.PayrolService;
 import lombok.RequiredArgsConstructor;
 
 @RequiredArgsConstructor
@@ -17,20 +16,11 @@ import lombok.RequiredArgsConstructor;
 @RequestMapping(value = "/api/payments")
 public class PayrollResource {
 	
-	private final UserFeign userFeign;
-
+	private final PayrolService service;
+	
 	@GetMapping(value = "/{workId}")
 	public ResponseEntity<Payroll> getPayment(@PathVariable Long workId, @RequestBody Payroll payment) {		
-		User user = userFeign.findById(workId).getBody();
-		
-		return ResponseEntity.ok().body(
-				new Payroll(
-						user.getName(), 
-						payment.getDescription(), 
-						user.getHourlyPrice(), 
-						payment.getWorkedHours(),
-						user.getHourlyPrice() * payment.getWorkedHours())
-				);
+		return ResponseEntity.ok().body(service.getPayment(workId, payment));
 	}
 
 }
