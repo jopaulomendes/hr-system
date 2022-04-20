@@ -1,5 +1,0 @@
-package br.com.jopaulo.userapi.services;
-
-public interface UserService {
-
-}

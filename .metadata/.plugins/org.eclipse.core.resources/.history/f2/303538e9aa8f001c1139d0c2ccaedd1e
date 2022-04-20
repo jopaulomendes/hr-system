@@ -1,5 +1,0 @@
-package br.com.jopaulo.userapi.resources;
-
-public interface UserResources {
-
-}

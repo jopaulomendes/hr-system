@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/payroll-api"/>
 			<item value="/home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/user-api"/>
 		</list>
 		<list key="projectNameTemplate">
