@@ -81,7 +81,6 @@ INDEX VERSION 1.131+/home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-syst
 3050242312.index
 26501801.index
 4011347846.index
-1024738215.index
 309414955.index
 3548516255.index
 1270746516.index
