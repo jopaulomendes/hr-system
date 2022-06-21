@@ -2606,3 +2606,82 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2022-06-21 00:50:05,329 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-06-21 00:50:05,329 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-06-21 00:50:05,329 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/eureka-server/src/test/resources
+2022-06-21 01:06:37,664 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:06:37,665 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:06:37,667 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-21 01:06:37,668 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-21 01:06:37,671 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:06:37,672 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:06:37,672 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/api-gateway/src/test/resources
+2022-06-21 01:06:43,074 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:06:43,074 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:06:43,074 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-21 01:06:43,074 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-21 01:06:43,078 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:06:43,079 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:06:43,080 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/payroll-api/src/test/resources
+2022-06-21 01:06:48,704 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:06:48,705 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:06:48,705 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-21 01:06:48,705 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-21 01:06:48,709 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:06:48,710 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:06:48,710 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/user-api/src/test/resources
+2022-06-21 01:09:04,593 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:09:04,593 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:09:04,595 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-21 01:09:04,600 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-21 01:09:04,602 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:09:04,603 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:09:04,603 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/user-api/src/test/resources
+2022-06-21 01:09:33,418 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:09:33,418 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:09:33,418 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-21 01:09:33,420 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-21 01:09:33,422 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:09:33,422 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:09:33,422 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/payroll-api/src/test/resources
+2022-06-21 01:10:19,015 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:10:19,015 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:10:19,015 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-21 01:10:19,018 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-21 01:10:19,021 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:10:19,021 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:10:19,021 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/api-gateway/src/test/resources
+2022-06-21 01:11:32,394 [Worker-15: Launching Executing clean in _home_bruna_Documentos_STS-Workspace_dicas-de-um-dev_hr-system_user-api] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/user-api
+2022-06-21 01:11:32,394 [Worker-15: Launching Executing clean in _home_bruna_Documentos_STS-Workspace_dicas-de-um-dev_hr-system_user-api] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always -Dstyle.color=always
+2022-06-21 01:11:35,120 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:11:35,121 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:11:35,122 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-21 01:11:35,176 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-21 01:11:35,181 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:11:35,182 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:11:35,182 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/user-api/src/test/resources
+2022-06-21 01:11:50,038 [Worker-18: Launching Executing install in _home_bruna_Documentos_STS-Workspace_dicas-de-um-dev_hr-system_user-api] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/user-api
+2022-06-21 01:11:50,039 [Worker-18: Launching Executing install in _home_bruna_Documentos_STS-Workspace_dicas-de-um-dev_hr-system_user-api] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always -Dstyle.color=always
+2022-06-21 01:12:08,122 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:12:08,122 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:12:08,122 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-21 01:12:08,129 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-21 01:12:08,132 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:12:08,132 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:12:08,132 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/user-api/src/test/resources
+2022-06-21 01:12:30,204 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-06-21 01:12:45,635 [Worker-18: Launching user-api] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/user-api
+2022-06-21 01:12:45,635 [Worker-18: Launching user-api] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean install -Dstyle.color=always -Dstyle.color=always
+2022-06-21 01:13:02,810 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-06-21 01:13:13,523 [Worker-10: Launching payroll-api] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/payroll-api
+2022-06-21 01:13:13,523 [Worker-10: Launching payroll-api] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests clean install -Dstyle.color=always -Dstyle.color=always
+2022-06-21 01:14:58,442 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-06-21 01:15:07,992 [Worker-19: Launching eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/eureka-server
+2022-06-21 01:15:07,993 [Worker-19: Launching eureka-server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -Dmaven.test.skip=true -DskipTests clean install -Dstyle.color=always -Dstyle.color=always
+2022-06-21 01:15:42,429 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-06-21 01:15:53,351 [Worker-17: Launching api-gateway] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/api-gateway
+2022-06-21 01:15:53,352 [Worker-17: Launching api-gateway] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B -Dmaven.test.skip=true -DskipTests clean install -Dstyle.color=always -Dstyle.color=always
+2022-06-21 01:17:08,192 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:17:08,193 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:17:08,193 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-21 01:17:08,193 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-21 01:17:08,196 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-21 01:17:08,196 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-06-21 01:17:08,196 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/bruna/Documentos/STS-Workspace/dicas-de-um-dev/hr-system/user-api/src/test/resources
